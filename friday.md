@@ -4,6 +4,7 @@ Friday 12:30-3pm Section
 
 ## (9/1) Week 1
 
+[Week 1 Slides](https://docs.google.com/presentation/d/1oPhDmiQaYsaT_5Q_dhVZ38aL9e0W7kjv44zCVTZMUic/edit?usp=sharing)
 
 Topics:
 
@@ -18,7 +19,8 @@ Optional Topics:
 - Review: HTML & CSS
 - Lab Bootstrap 5.2
 
-
+Assignment:
+- Form teams of 2, submit on Slack by next class on 9/8
 
 ## (9/8) Week 2
 
