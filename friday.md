@@ -6,6 +6,8 @@ Friday 12:30-3pm Section
 
 [Week 1 Slides](https://docs.google.com/presentation/d/1oPhDmiQaYsaT_5Q_dhVZ38aL9e0W7kjv44zCVTZMUic/edit?usp=sharing)
 
+[Optional: Bootstrap Lab](https://github.com/CUNYTechPrep/lab-bootstrap-5.2)
+
 Topics:
 
 - Semester Overview
@@ -24,14 +26,15 @@ Assignment:
 
 ## (9/8) Week 2
 
+
 Topics:
 
-- Contributing to Open Source
+- [Contributing to Open Source (slides)](https://docs.google.com/presentation/d/1iYjr8h3bHjcwrQ6uO-iirW7TGkSNMRhEH1-YswNOc7U/edit?usp=sharing)
 	+ Readme and Licenses
 	+ Contribution guides
 	+ Code of Conduct
 	+ Communities
-- React Intro
+- [React Intro (slides)](https://docs.google.com/presentation/d/1Irg_ScxrLVN425nsA1vn7rZ-vv83G0XsB3jQPodXnfA/edit?usp=sharing)
 
 
 ## (9/15) Week 3
