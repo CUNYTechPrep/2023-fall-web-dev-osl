@@ -39,18 +39,21 @@ Topics:
 
 ## (9/15) Week 3
 
+[Learn React 1 lab](materials/learn-react-1.md)
 
 Topics:
 
-- Github Overview and finding projects:
+- [Finding projects and Github Overview (slides)](https://docs.google.com/presentation/d/1rhe_XRWrWPuC-o_QSHg9IpBbx4wKzpAUGTZ-0NupSFU/edit?usp=sharing):
 	+ finding projects and labels
 	+ issues, pull requests
-- Client-Server Communication
-    + Parts of a URL
-    + Understanding HTTP Request-Response
-- `fetch(...)` and Promises
 - More React
 
+Assignments:
+
+- [React Toggle Lab](https://github.com/CUNYTechPrep/lab-react-toggle)
+	+ submit a pull request by 9/22
+- Look for open source projects to contribute to during [Hacktoberfest](https://hacktoberfest.com/participation/)
+	+ read participation rules
 
 ## (9/22) Week 4
 
@@ -60,7 +63,11 @@ Topics:
 	+ [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 	+ Rebasing
 	+ Squashing
-- More `fetch()` and React
+- Client-Server Communication
+    + Parts of a URL
+    + Understanding HTTP Request-Response
+- `fetch(...)` and Promises
+
 
 ## (9/29) Week 5
 
