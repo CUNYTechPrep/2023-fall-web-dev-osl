@@ -59,21 +59,25 @@ Assignments:
 
 Topics:
 
-- Git and Making contributions
-	+ [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
-	+ Rebasing
-	+ Squashing
-- Client-Server Communication
+- [Client-Server Communication (slides)](https://docs.google.com/presentation/d/1hJgCCh3UiygFQ6q8_G7_KCn332rGuo6VPHlM49JM4Ao/edit#slide=id.p)
     + Parts of a URL
     + Understanding HTTP Request-Response
-- `fetch(...)` and Promises
+- [`fetch(...)` and Promises (slides)](https://docs.google.com/presentation/d/1ctGUH2sYpqDjo268t_nL0A3u1t6tzAqwk-mw5WIxwnM/edit#slide=id.p)
 
+Assignments: 
+
+- Look for open source projects to contribute to during [Hacktoberfest](https://hacktoberfest.com/participation/)
+	+ read participation rules
 
 ## (9/29) Week 5
 
 
 Topics:
 
+- Git and Making contributions
+	+ [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+	+ Rebasing
+	+ Squashing
 - Fullstack Review: Frontend vs Backend
 - About `npm`
 - Building a backend with Express.js
