@@ -71,13 +71,26 @@ Assignments:
 
 ## (9/29) Week 5
 
+Topics:
+
+- [Git commits and merging contributions](https://docs.google.com/presentation/d/1T8kmHkvCGy49-Z2malI1BzEH4LlN2SUNDa7ZUkyrD1s/edit?usp=sharing)
+	+ [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+	+ Squash and Merge
+	+ Rebase and Merge
+
+Assignments:
+
+- Complete the [React Zip Search lab](https://github.com/CUNYTechPrep/lab-react-zip-search)
+	+ You can work in your team and submit work in one PR per team
+- Look thru Partner Projects in class Slack channel.
+- Participate in Hacktoberfest
+	+ Try your best to make at least one PR in the month of October.
+	+ Contribution can be to documentation
+
+## (10/6) Week 6
 
 Topics:
 
-- Git and Making contributions
-	+ [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
-	+ Rebasing
-	+ Squashing
 - Fullstack Review: Frontend vs Backend
 - About `npm`
 - Building a backend with Express.js
@@ -86,11 +99,6 @@ Topics:
     + Query Parameters
     + Body Parameters
 - RESTful Routing
-
-## (10/6) Week 6
-
-Topics:
-
 - SDLC (software development lifecycle)
 - Design Documents
 
