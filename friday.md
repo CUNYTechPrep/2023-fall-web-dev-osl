@@ -73,7 +73,7 @@ Assignments:
 
 Topics:
 
-- [Git commits and merging contributions](https://docs.google.com/presentation/d/1T8kmHkvCGy49-Z2malI1BzEH4LlN2SUNDa7ZUkyrD1s/edit?usp=sharing)
+- [Git commits and merging contributions (slides)](https://docs.google.com/presentation/d/1T8kmHkvCGy49-Z2malI1BzEH4LlN2SUNDa7ZUkyrD1s/edit?usp=sharing)
 	+ [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 	+ Squash and Merge
 	+ Rebase and Merge
@@ -82,6 +82,7 @@ Assignments:
 
 - Complete the [React Zip Search lab](https://github.com/CUNYTechPrep/lab-react-zip-search)
 	+ You can work in your team and submit work in one PR per team
+	+ submit work by start of Week 6 class (10/6)
 - Look thru Partner Projects in class Slack channel.
 - Participate in Hacktoberfest
 	+ Try your best to make at least one PR in the month of October.
