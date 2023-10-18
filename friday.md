@@ -92,16 +92,9 @@ Assignments:
 
 Topics:
 
-- Fullstack Review: Frontend vs Backend
-- About `npm`
-- Building a backend with Express.js
-    + Routing
-    + Route Parameters
-    + Query Parameters
-    + Body Parameters
-- RESTful Routing
-- SDLC (software development lifecycle)
-- Design Documents
+- Open Source Partner Project Matching
+- [SDLC (software development lifecycle)](https://docs.google.com/presentation/d/1B_axNuiBuRdlivvITJYF2AS8RCWSa84XBGSR7Iw0S64/edit#slide=id.p)
+- [Design Documents](https://docs.google.com/document/d/15Cs2h6f83mXQWmCoSQ37N2fwiKui9Oli9Ph1WwXsDSY/edit#heading=h.7bv8fyipu40c)
 
 
 ## (10/13) NO CLASS
@@ -110,9 +103,16 @@ Topics:
 
 Topics:
 
-- MVC (_Models-Views-Controllers_) Project Structure
-- Using MVC app structure
-- Project Starter setup and walkthrough
+- Fullstack Review: Frontend vs Backend
+- About `npm`
+- Building a backend with Express.js
+    + Routing
+    + Route Parameters
+    + Query Parameters
+    + Body Parameters
+- RESTful Routing
+
+
 
 
 ## (10/27) Week 8
@@ -120,19 +120,28 @@ Topics:
 
 Topics:
 
-- Databases and Data Modeling
-- ORM's (Sequelize.js)
-- Using Sequelize.js
-- Testing (Jest)
+- MVC (_Models-Views-Controllers_) Project Structure
+- Using MVC app structure
+- Project Starter setup and walkthrough
+
+
 
 ## (11/3) Week 9
 
 Topics:
 
 - **_Project Presentations_**
-- Implementing Authentication
-- Sessions
-- Passport.js, Bcrypt
+- Databases and Data Modeling
+- ORM's (Sequelize.js)
+- Using Sequelize.js
+- Testing (Jest)
+
+Assignment:
+
+- Watch following videos
+	- Implementing Authentication
+	- Sessions
+	- Passport.js, Bcrypt
 
 ## (11/10) Week 10
 
