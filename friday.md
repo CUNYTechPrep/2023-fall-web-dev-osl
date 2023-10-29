@@ -103,14 +103,14 @@ Topics:
 
 Topics:
 
-- Fullstack Review: Frontend vs Backend
-- About `npm`
-- Building a backend with Express.js
+- [Fullstack Review: Frontend vs Backend (slides)](https://docs.google.com/presentation/d/1x6mtEjdU2JhhJuUaoP0LC4_uMtTUEpNDxD6NIabnkKM/edit#slide=id.p)
+- [About `npm` & Building a backend with Express.js (slides)](https://docs.google.com/presentation/d/1oWHbjoTU3BdrCpZ51I73D3YRLkManTQtkUheegribg4/edit#slide=id.p)
     + Routing
     + Route Parameters
     + Query Parameters
     + Body Parameters
 - RESTful Routing
+- [Tutorial: Express.js Hello World](https://expressjs.com/en/starter/hello-world.html)
 
 
 
@@ -120,10 +120,18 @@ Topics:
 
 Topics:
 
-- MVC (_Models-Views-Controllers_) Project Structure
+- [MVC (_Models-Views-Controllers_) Project Structure (slides 1-15)](https://github.com/CUNYTechPrep/2023-fall-web-dev-osl/blob/main/materials/mvc-data-modeling-2022.pdf)
 - Using MVC app structure
-- Project Starter setup and walkthrough
+- [Project Starter setup and walkthrough](https://github.com/CUNYTechPrep/project-starter/)
 
+Assignment:
+
+- First Project Presentation
+    - During Week 9 class
+    - 8 minutes per team (5 min presentation, 3 min Q&A)
+    - All team members must present at least one slide
+    - See [presentation guidelines here](https://docs.google.com/presentation/d/1YRuDpXy7di9GBWRPyocvkA1n9GxdCOscXAR66Vvli9g/edit?usp=sharing).
+    - (Optional) Show a demo of work in progress if you can, otherwise show your mockups/design
 
 
 ## (11/3) Week 9
@@ -131,7 +139,7 @@ Topics:
 Topics:
 
 - **_Project Presentations_**
-- Databases and Data Modeling
+- [Databases and Data Modeling (slides 16-42)](https://github.com/CUNYTechPrep/2023-fall-web-dev/blob/main/materials/mvc-data-modeling-2022.pdf)
 - ORM's (Sequelize.js)
 - Using Sequelize.js
 - Testing (Jest)
